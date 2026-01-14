@@ -2,6 +2,7 @@
 
 Bu proje, Web Tasarım dersi kapsamında HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir restoran tanıtım sitesidir.
 
+[Proje Raporunu Görüntülemek İçin Tıklayın](./Zeynep_Duygu_Akay_Proje_Raporu.pdf)
 ## 🚀 Proje Hakkında
 La Fetta, hayali bir İtalyan restoranıdır. Bu web sitesi, kullanıcıların menüyü incelemesi, restoran hakkında bilgi alması ve galeriye göz atıp rezervasyon yapabilmesi için tasarlanmıştır.
 
